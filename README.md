@@ -12,7 +12,7 @@ Follow these steps to run the project.
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/user/project.git](https://github.com/nihatbyram/web-portal-task-Nihat.git)https://github.com/nihatbyram/web-portal-task-Nihat.git
+   git clone https://github.com/nihatbyram/web-portal-task-Nihat.git
   or 
     This version emphasizes downloading the project directly by clicking the "Code" button and selecting "Download ZIP." Adjust as needed based on your project details.
 
