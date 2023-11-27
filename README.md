@@ -16,7 +16,7 @@ Follow these steps to run the project.
     This version emphasizes downloading the project directly by clicking the "Code" button and selecting "Download ZIP." Adjust as needed based on your project details.
 
 
-  Usage
+## Usage
 Open the main page of the project in your web browser.
 
 Browse the data in the table on the page.
