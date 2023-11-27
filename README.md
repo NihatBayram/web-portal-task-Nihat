@@ -5,6 +5,7 @@ Project Description:
 This project connects to a remote API, downloads a dataset, displays it in a table on a web page, and provides basic search and filter functionalities. Additionally, the page auto-refreshes every 60 minutes to fetch new data without reloading.
 
 ## Getting Started
+### PHP 5.6 or higher is required
 
 Follow these steps to run the project.
 
