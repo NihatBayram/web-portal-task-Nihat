@@ -1,18 +1,18 @@
 <?php
 // getData.php
 
-// API bilgileri (size verilen bilgilerle değiştirin)
+// API info
 $apiUrl = "https://api.baubuddy.de/dev/index.php/v1/tasks/select";
 $username = "365";
 $password = "1";
 
-// Kimlik doğrulama
+// oauth
 $headers = [
     "Authorization: Basic " . base64_encode("API_Username:API_Password"),
     "Content-Type: application/json",
 ];
 
-// cURL ile API'ye istek yapma
+// cURL request
 $curl = curl_init();
 curl_setopt_array($curl, [
     CURLOPT_URL => $apiUrl,
@@ -22,7 +22,7 @@ curl_setopt_array($curl, [
 $response = curl_exec($curl);
 curl_close($curl);
 
-// Veriyi JSON olarak döndürme
+// return json
 header('Content-Type: application/json');
 echo $response;
 ?>
