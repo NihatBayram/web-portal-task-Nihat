@@ -27,9 +27,9 @@ Observe that the page automatically refreshes every 60 minutes.
 
 Try opening the modal window to select an image.
 
-![Screenshot-1]([url](https://i.imgur.com/QdUBloF.jpg))
-![Screenshot-2]([url](https://i.imgur.com/M1F97Fz.jpg))
-![Screenshot-3]([url](https://i.imgur.com/e1H1gK1.jpg))
-![Screenshot-4]([url](https://i.imgur.com/UQHCmQE.jpg))
-![Screenshot-5]([url](https://i.imgur.com/2gz9Ymk.jpg))
-![Screenshot-6]([url](https://i.imgur.com/5xGHcTU.jpg))
+![Screenshot-1](https://i.imgur.com/QdUBloF.jpg)
+![Screenshot-2](https://i.imgur.com/M1F97Fz.jpg)
+![Screenshot-3](https://i.imgur.com/e1H1gK1.jpg)
+![Screenshot-4](https://i.imgur.com/UQHCmQE.jpg)
+![Screenshot-5](https://i.imgur.com/2gz9Ymk.jpg)
+![Screenshot-6](https://i.imgur.com/5xGHcTU.jpg)
